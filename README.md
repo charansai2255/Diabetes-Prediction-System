@@ -87,8 +87,6 @@ and displays a risk score based on the trained model.
 
 This application is intended for educational and research purposes only. It should not be used as a substitute for professional medical advice, diagnosis, or treatment.
 
-## 👨‍💻 Author
+## Live streamlit link
 
-Your Name
-
-GitHub: https://github.com/charansai2255
+https://diabetes-prediction-system-wefewfwf.streamlit.app/
